@@ -2,7 +2,7 @@
 
 <img src="https://img.icons8.com/ios-filled/250/rocket--v1.png" align="right" height="160px" alt="Rocket Ship" />
 
-Welcome! I'm **Rashard** — a ** Web Application Security Engineer** with a passion for building secure, resilient cloud-native applications from **design to deployment**. My expertise lies in architecting robust DevSecOps pipelines, leading proactive vulnerability management, and driving the implementation of complex security policies. As a quantum-focused engineer and continuous learner, I'm dedicated to defining and securing the future of cloud development through actionable, project-based progress.
+Welcome! I'm **Rashard** — a **Web Application Security Engineer** with a passion for building secure, resilient cloud-native applications from **design to deployment**. My expertise lies in architecting robust DevSecOps pipelines, leading proactive vulnerability management, and driving the implementation of complex security policies. As a quantum-focused engineer and continuous learner, I'm dedicated to defining and securing the future of cloud development through actionable, project-based progress.
 
 ## 👋 About This Repository
 
