@@ -39,7 +39,7 @@ This portfolio provides hands-on demonstrations and deep dives into critical are
 * **[DevSecOps Automation Pipeline](https://github.com/Rashard/devsecops-automation-pipeline):** Demonstrates comprehensive CI/CD security automation, including integrated post-quantum cryptography scanning, clean documentation, and security best practices.
 * **[Cloud-Native Security Patterns](https://github.com/Rashard/cloud-native-security-patterns):** Infrastructure as Code templates and security patterns for building quantum-resistant, cloud-native architectures with comprehensive testing and validation.
 * **[Quantum Security Toolkit](https://github.com/Rashard/quantum-security-toolkit):** Open-source tools for post-quantum cryptography assessment and migration planning with automated compliance validation.
-* *(Optional: Add more specific repos here if they exist for Microservices, Web App Deployment, etc., with a concise, security-focused description and link)*
+
 
 ---
 
