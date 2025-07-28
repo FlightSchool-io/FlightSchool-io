@@ -26,5 +26,5 @@ This repository is both a technical showcase and a movement-builder’s hub, hig
 - ✔️ Cloud-Native Patterns (IaC + Runtime Tests)
 
 💡 **AppSec Mission Statement**  
-> “Security isn’t just reactive—it’s cultural. As Coach Dan Quinn said, *‘We didn’t come to change this, but to amplify it.’* This portfolio is my amplifier.”
+> “Security isn’t reactive—it’s cadence, culture, conviction, mentorship, mastery, motion, and leadership.”
 
