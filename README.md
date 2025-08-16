@@ -78,36 +78,6 @@ Each module dramatizes a real-world vulnerability:
 
 ---
 
-## 📎 Mirroring Text with Embedded Screenshots
-
-Sometimes, you may want to include a visual copy (Word or PDF screenshot) of your text for reference or archiving. Here’s how you can do it:
-
-**Example Section:**
-
-```
-This is a sample sentence that appears in both the README and a screenshot below.
-```
-
-![Sample Screenshot: README in Word Document](images/sample-word-screenshot.png)
-*Above: Screenshot of README content as seen in Word.*
-
-![Sample Screenshot: README in PDF](images/sample-pdf-screenshot.png)
-*Above: Screenshot of README content as seen in PDF.*
-
-**How To Embed Images in Markdown:**
-```markdown
-![Alt text describing the image](relative/path/to/image.png)
-```
-- Place your image in your repository (e.g., `images/` folder).
-- Use the relative path to reference it.
-
----
-
-**Tip:**  
-Embedding screenshots of your README as it appears in Word or PDF helps with documentation consistency, presentation, and archival.
-
----
-
 ## 📄 Additional Resources
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
