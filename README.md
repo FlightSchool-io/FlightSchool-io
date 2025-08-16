@@ -82,6 +82,6 @@ Each module dramatizes a real-world vulnerability:
 
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 - [GitHub Advanced Security](https://docs.github.com/en/code-security)
-- [Quantum-Safe Migration Planning](https://csrc.nist.gov/projects/pqc)
+- [Quantum-Safe Migration Planning](https://www.nccoe.nist.gov/crypto-agility-considerations-migrating-post-quantum-cryptographic-algorithms)
 
 ---
